@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 HERE = Path(__file__).resolve().parent
-DEFAULT_CANDIDATE_CSV = HERE / "data" / "candidate_pool.csv"
+DEFAULT_CANDIDATE_CSV = HERE / "candidate_pool_core.csv"
 DEFAULT_OUT_CSV = HERE / "outputs" / "candidates_with_host_score.csv"
 
 

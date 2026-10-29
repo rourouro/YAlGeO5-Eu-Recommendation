@@ -13,7 +13,7 @@ S_total = 0.4 * host_score + 0.6 * family_score
 
 Run the host script first, then the family script. Default inputs and outputs are next to these scripts:
 
-- `data/candidate_pool.csv`
+- `candidate_pool_core.csv`
 - `data/anchors.csv`
 - `outputs/candidates_with_host_score.csv`
 - `outputs/candidates_with_family_score.csv`
